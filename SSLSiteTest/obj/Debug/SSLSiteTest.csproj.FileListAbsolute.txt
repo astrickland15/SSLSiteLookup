@@ -1,0 +1,10 @@
+E:\Source\repos\SSLSiteTest\SSLSiteTest\bin\Debug\SSLSiteTest.exe.config
+E:\Source\repos\SSLSiteTest\SSLSiteTest\bin\Debug\SSLSiteTest.exe
+E:\Source\repos\SSLSiteTest\SSLSiteTest\bin\Debug\SSLSiteTest.pdb
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.csprojAssemblyReference.cache
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.Form1.resources
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.Properties.Resources.resources
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.csproj.GenerateResource.cache
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.csproj.CoreCompileInputs.cache
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.exe
+E:\Source\repos\SSLSiteTest\SSLSiteTest\obj\Debug\SSLSiteTest.pdb
